@@ -2,11 +2,10 @@
 
  <hr width = “1” size = “10”>
 <div>
-<a href="https://github.com/imenesg">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=imenesg&show_icons=true&theme=radical" />
-
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imenesg&layout=compact&theme=radical" />
- </a>
+  <a href="https://github.com/imenesg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imenesg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imenesg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <hr width = “1” size = “10”>
  <a href="https://github.com/imenesgt">
