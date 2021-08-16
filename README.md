@@ -1,4 +1,4 @@
-# 👋 **Eai, eu sou o Gabriel Imenes. 👨‍💻**
+<img src ="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> **Eai, eu sou o Gabriel Imenes. 👨‍💻**
 
  <hr width = “1” size = “10”>
 <p  align="center">
