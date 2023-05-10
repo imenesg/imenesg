@@ -9,17 +9,18 @@
     </a>
 </div>
 
-<p>👋Olá, sou o Gabriel Imenes e sou uma pessoa desenvolvedora Front End; Gosto muito de criar/participar de projetos e tirá-los do papel. Construo aplicações web utilizando ReactJS e outras tecnologias. </p>
+<p>👋 Olá, sou o Gabriel Imenes, um desenvolvedor web. Trabalho com HTML/HTML5, CSS/CSS3, JavaScript/ES6, React.js e Bootstrap. Também tenho conhecimentos em UI e UX.
 
-👨‍💻Realizo projetos utilizando: 
-<ul>
- <li>✅HTML/HTML5</li>
- <li>✅CSS/CSS3</li>
- <li>✅JavaScript/ES6</li>
- <li>✅React.js</li>
- <li>✅Bootstrap</li>
- <li>✅ tenho noções de UI e UX.</li>
- </ul>
+Atualmente, estou estudando back-end, usando ferramentas como Node, Express e Adonis, e planejo aplicar essas habilidades para criar aplicações web ainda mais avançadas. Estou animado para trabalhar em projetos desafiadores e expandir minhas habilidades como desenvolvedor web.
+
+
+
+💻 GitHub : github.com/imenesg .
+💻 Portfólio : imenesg.github.io/portfolio .
+
+:)
+
+Pessoa Desenvolvedora Web | Software Engineer | Front-end | linux . </p>
 
  <hr width = “1” size = “10”>
 <p  align="center">
