@@ -8,12 +8,7 @@
 
 <p>👋 Olá, sou o Gabriel Imenes, um desenvolvedor web. Trabalho com HTML/HTML5, CSS/CSS3, JavaScript/ES6, React.js e Bootstrap. Também tenho conhecimentos em UI e UX.
 
-Atualmente, estou estudando back-end, usando ferramentas como Node, Express e Adonis, e planejo aplicar essas habilidades para criar aplicações web ainda mais avançadas. Estou animado para trabalhar em projetos desafiadores e expandir minhas habilidades como desenvolvedor web.
-
-
-
-💻 GitHub : github.com/imenesg .
-💻 Portfólio : imenesg.github.io/portfolio .
+também desenvolvo em back-end, usando ferramentas como Node, Express e Adonis.
 
 :)
 
